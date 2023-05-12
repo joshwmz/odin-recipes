@@ -1,0 +1,32 @@
+* {
+    font-family: "Monaco", monospace;
+}
+
+#chef-odin {
+    height: 150px;
+    weight: 100px;
+}
+
+.dish {
+    height: 600px;
+    width: auto;
+}
+
+.dish-name,
+.subheading {
+    color: white;
+}
+
+.dish-name {
+    background-color: black;
+}
+
+p,
+ul,
+ol {
+    background-color: rgb(225, 225, 225);
+}
+
+.subheading {
+    background-color: grey;
+}
